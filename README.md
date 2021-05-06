@@ -1,4 +1,4 @@
-#Reto: "Encuentra la subcadena más larga presente en una matriz"
+# Reto: "Encuentra la subcadena más larga presente en una matriz"
 
 En esta instancia es porque ya solo nos queda indagar en tu capacidad analítica. Queremos
 hacerlo pidiéndote que desarrolles un pequeño programa, en el lenguaje de programación de
@@ -29,4 +29,4 @@ La solucion consta de 3 proyectos
 	## 2.- Domain  (Emerios.Matrix.Domain)  - Contiene las clases y logica utilizadas para llevar a cabo el ejercicio
 	## 3.- Tests   (Emerios.Matrix.Tests)   - Proyecto de Tests donde se testean cada uno de los metodos que fueron utilizados para la resolucion de la problematica
 
-# La solucion no contiene librerias externas, vasta con hacer un restore desde el VisualStudio y compilar, ejecutar el Emerios.Matrix.Console
+## La solucion no contiene librerias externas, vasta con hacer un restore desde el VisualStudio y compilar, ejecutar el Emerios.Matrix.Console
